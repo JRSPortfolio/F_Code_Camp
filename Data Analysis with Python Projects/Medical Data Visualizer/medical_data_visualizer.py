@@ -36,7 +36,7 @@ def draw_cat_plot():
 
 
     # 9
-    fig.savefig('catplot.png')
+    fig.savefig('Data Analysis with Python Projects/Medical Data Visualizer/catplot.png')
     return fig
 
 
@@ -69,5 +69,5 @@ def draw_heat_map():
 
     
     # 16
-    fig.savefig('heatmap.png')
+    fig.savefig('Data Analysis with Python Projects/Medical Data Visualizer/heatmap.png')
     return fig
